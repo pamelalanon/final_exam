@@ -190,9 +190,9 @@ p{
    }
     .title{
         position: relative;
-        background-color: tomato;
+        background-color: red;
         float: right;
-        border: 1px solid purple;
+        border: 1px solid black;
         color: white;
         font-size: 20px;
         padding: 5px 20px 5px 20px;
